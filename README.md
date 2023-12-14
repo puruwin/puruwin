@@ -1,9 +1,9 @@
 ### Hello there! 👋
 
 I'm David *(aka Puru)*, a full-stack engineer from 🏖 Alicante, Spain. 
-I love learning new things and discover new challenges! That's why you will always find me researching new programming languages and training in [CodeWars](https://www.codewars.com/users/puruwin).
+I love learning new things and discover new challenges! That's why you will always find me researching new programming languages and training in 🥷[CodeWars](https://www.codewars.com/users/puruwin).
 
-I've been a JavaScript enthusiast my whole career but I'm transitioning into a more *functional programming* approach on things.
+I've been a JavaScript enthusiast my whole career but I'm transitioning into a more <span style="background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);-webkit-background-clip: text; -webkit-text-fill-color: transparent; font-style:italic; font-weight:700">functional programming</span> approach on things.
 
 I'm currently working at 🛫 [AirEuropa](https://www.aireuropa.com/es/en/home) as a full-stack engineer.
 
