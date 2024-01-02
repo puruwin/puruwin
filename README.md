@@ -22,9 +22,9 @@ I'm currently working at 🛫 [AirEuropa](https://www.aireuropa.com/es/en/home) 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=puruwin&show_icons=true&theme=synthwave)
+![Stats](https://github-readme-stats.vercel.app/api?username=puruwin&show_icons=true&theme=synthwave&hide=stars,issues,contribs)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=puruwin&layout=compact&theme=synthwave)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=puruwin&layout=donut&theme=synthwave&hide=html,handlebars,css)
 
 #### Wakatime Stats:
 ![Puruwin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=puruwin&theme=synthwave)
