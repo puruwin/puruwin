@@ -11,7 +11,7 @@ I'm currently working at 🍧 [Frappé](https://github.com/cambur-frappe) as a f
 ### My tech stack 🛠
 #### Daily use:
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
-![Lit](https://img.shields.io/badge/LIT-324FFF?style=for-the-badge&logo=typescript&logoColor=white)
+![Lit](https://img.shields.io/badge/LIT-324FFF?style=for-the-badge&logo=lit&logoColor=white)
 ![Astro](https://img.shields.io/badge/ASTRO-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
