@@ -5,12 +5,12 @@ I love learning new things and discover new challenges! That's why you will alwa
 
 I've been a JavaScript enthusiast my whole career but I'm transitioning into a more *functional programming* approach on things.
 
-I'm currently working at 🛫 [AirEuropa](https://www.aireuropa.com/es/en/home) as a full-stack engineer.
+I'm currently working at 🍧 [Frappé](https://github.com/cambur-frappe) as a full-stack engineer.
 
 
 ### My tech stack 🛠
 #### Daily use:
-![Elm](https://img.shields.io/badge/ELM-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
+![Astro](https://img.shields.io/badge/ASTRO-BC52EE?style=for-the-badge&logo=astro&logoColor=#BC52EE)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
