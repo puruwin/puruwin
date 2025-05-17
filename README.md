@@ -5,7 +5,7 @@ I love learning new things and discover new challenges! That's why you will alwa
 
 I've been a JavaScript enthusiast my whole career but I'm transitioning into a more *functional programming* approach on things.
 
-I'm currently working at 🍧 [Frappé](https://github.com/cambur-frappe) as a full-stack engineer.
+I'm currently working at 🍧 [Frappé](https://creativefrappe.com) as a full-stack engineer.
 
 
 ### My tech stack 🛠
